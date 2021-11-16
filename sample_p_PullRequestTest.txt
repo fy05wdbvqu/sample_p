@@ -1,2 +1,4 @@
 sample_pのPullRequest練習
 profileブランチを作成
+ブランチにprofileを追加
+
